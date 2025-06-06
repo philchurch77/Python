@@ -1,9 +1,0 @@
-MenuData = [
-    {MenuTitle:"Child Level Engagement 📝 ", GoToScreen:'Child Level Engagement', TransitionType: ScreenTransition.Fade},
-    {MenuTitle:"Cambridgeshire Settings 🏫", GoToScreen:'Cambridgeshire Settings', TransitionType: ScreenTransition.Fade},
-    {MenuTitle:"Other Local Authority Settings 🗺️ ", GoToScreen:'Other Local Authority Settings', TransitionType: ScreenTransition.Fade},
-    {MenuTitle:"Wider Cohorts 🧭 ", GoToScreen:'Wider Cohorts', TransitionType: ScreenTransition.Fade},
-    {MenuTitle:"SEND 📚 ", GoToScreen:'SEND', TransitionType: ScreenTransition.Fade},
-    {MenuTitle:"Pupil Premium + 💸 ", GoToScreen:'Pupil Premium +', TransitionType: ScreenTransition.Fade},
-    {MenuTitle:"IGP 📋", GoToScreen:'IGP', TransitionType: ScreenTransition.Fade}
-];
