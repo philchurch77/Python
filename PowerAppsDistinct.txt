@@ -1,5 +1,0 @@
-SortByColumns(
-    Distinct(WeeklyReport, 'School Name'),
-    "Value",
-    SortOrder.Ascending
-)
